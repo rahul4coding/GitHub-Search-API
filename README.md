@@ -1,6 +1,5 @@
-# Angularfun
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+# GitHub-Search-API
+GitHub Search API let you search repositories you want to search :) 
 
 ## Development server
 
